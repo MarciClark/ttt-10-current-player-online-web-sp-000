@@ -1,4 +1,4 @@
-def turn_count(board)
+def turn_count
   counter = 0
   if turn_count
     counter += 1
